@@ -4,7 +4,7 @@ This part of the repo contains the four plots and R scripts used to generate the
 
 All but plot3 look almost identical to what is asked for. I was unable to get the legend to not get cropped out a bit for plot3.
 
-## Introduction
+## Data
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
